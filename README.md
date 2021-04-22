@@ -1,6 +1,5 @@
 # utswebservice
-{
-    "data": {
+"data": {
         "id": 2,
         "name": "fuchsia rose",
         "year": 2001,
@@ -13,13 +12,13 @@
     }
 },
 {
-    "Name": "Alan",
+    "Name": "Maulana",
     "Job": "President",
-    "id": "448",
-    "createdAt": "2021-04-20T13:45:30.181Z"
+    "id": "351",
+    "createdAt": "2021-04-21T20:28:27.305Z"
 },
 {
-    "Name": "Alan",
+    "Name": "Maulana",
     "Job": "Teacher",
-    "updatedAt": "2021-04-20T13:50:29.660Z"
+    "updatedAt": "2021-04-21T20:33:12.347Z"
 }
